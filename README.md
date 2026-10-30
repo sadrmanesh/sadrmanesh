@@ -30,6 +30,17 @@ My focus is simple: AI should be judged by the problems it solves, not by the de
 - **Tech leadership & digital transformation:** helping teams and businesses adopt AI in ways that last
 - **Open source:** building in public and sharing the tools behind the products
 
+### Open source
+
+Production-grade building blocks for AI-powered commerce, built in the open.
+
+| Project | What it does | |
+| :--- | :--- | :---: |
+| **[woocommerce-mcp](https://github.com/sadrmanesh/woocommerce-mcp)**<br/><a href="https://github.com/sadrmanesh/woocommerce-mcp/releases"><img src="https://img.shields.io/github/v/release/sadrmanesh/woocommerce-mcp?style=flat-square&label=release&color=0A66C2" alt="Latest release"/></a> <a href="https://github.com/sadrmanesh/woocommerce-mcp/stargazers"><img src="https://img.shields.io/github/stars/sadrmanesh/woocommerce-mcp?style=flat-square&color=F5B301" alt="Stars"/></a> | Model Context Protocol server for WooCommerce: multi-store, previewed safe writes, refunds, bulk pricing and sales analytics. | [Docs](https://sadrmanesh.github.io/woocommerce-mcp/) |
+| **[llm-search-eval](https://github.com/sadrmanesh/llm-search-eval)**<br/><a href="https://github.com/sadrmanesh/llm-search-eval/releases"><img src="https://img.shields.io/github/v/release/sadrmanesh/llm-search-eval?style=flat-square&label=release&color=0A66C2" alt="Latest release"/></a> <a href="https://github.com/sadrmanesh/llm-search-eval/stargazers"><img src="https://img.shields.io/github/stars/sadrmanesh/llm-search-eval?style=flat-square&color=F5B301" alt="Stars"/></a> | Measures e-commerce search quality with IR metrics and LLM judge panels, with significance tests, cost budgets and a CI quality gate. | [Docs](https://sadrmanesh.github.io/llm-search-eval/) |
+| **[persian-rag](https://github.com/sadrmanesh/persian-rag)**<br/><a href="https://github.com/sadrmanesh/persian-rag/releases"><img src="https://img.shields.io/github/v/release/sadrmanesh/persian-rag?style=flat-square&label=release&color=0A66C2" alt="Latest release"/></a> <a href="https://github.com/sadrmanesh/persian-rag/stargazers"><img src="https://img.shields.io/github/stars/sadrmanesh/persian-rag?style=flat-square&color=F5B301" alt="Stars"/></a> | Persian-first RAG toolkit for Python: Farsi normalization, PDF and Word loading, hybrid retrieval, reranking and evaluation. | [Docs](https://sadrmanesh.github.io/persian-rag/) |
+| **[commerce-agent-skills](https://github.com/sadrmanesh/commerce-agent-skills)**<br/><a href="https://github.com/sadrmanesh/commerce-agent-skills/releases"><img src="https://img.shields.io/github/v/release/sadrmanesh/commerce-agent-skills?style=flat-square&label=release&color=0A66C2" alt="Latest release"/></a> <a href="https://github.com/sadrmanesh/commerce-agent-skills/stargazers"><img src="https://img.shields.io/github/stars/sadrmanesh/commerce-agent-skills?style=flat-square&color=F5B301" alt="Stars"/></a> | Skills and rules that help AI coding agents build e-commerce and marketplace products the right way. | [Docs](https://sadrmanesh.github.io/commerce-agent-skills/) |
+
 ### Tech stack
 
 **AI & LLMs:** OpenAI · Anthropic · Gemini · Llama · Mistral · Hugging Face Transformers · Ollama · vLLM  
@@ -60,4 +71,4 @@ My focus is simple: AI should be judged by the problems it solves, not by the de
   </picture>
 </p>
 
-<p align="center"><sub>ساختن محصول با هوش مصنوعی، برای آدم‌های واقعی.</sub></p>
+<p align="center"><sub>ساختن محصول با هوش مصنوعی، برای آدم های واقعی.</sub></p>
