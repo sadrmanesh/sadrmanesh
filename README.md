@@ -41,6 +41,10 @@ Production-grade building blocks for AI-powered commerce, built in the open.
 | **[persian-rag](https://github.com/sadrmanesh/persian-rag)**<br/><a href="https://github.com/sadrmanesh/persian-rag/releases"><img src="https://img.shields.io/github/v/release/sadrmanesh/persian-rag?style=flat-square&label=release&color=0A66C2" alt="Latest release"/></a> <a href="https://github.com/sadrmanesh/persian-rag/stargazers"><img src="https://img.shields.io/github/stars/sadrmanesh/persian-rag?style=flat-square&color=F5B301" alt="Stars"/></a> | Persian-first RAG toolkit for Python: Farsi normalization, PDF and Word loading, hybrid retrieval, reranking and evaluation. | [Docs](https://sadrmanesh.github.io/persian-rag/) |
 | **[commerce-agent-skills](https://github.com/sadrmanesh/commerce-agent-skills)**<br/><a href="https://github.com/sadrmanesh/commerce-agent-skills/releases"><img src="https://img.shields.io/github/v/release/sadrmanesh/commerce-agent-skills?style=flat-square&label=release&color=0A66C2" alt="Latest release"/></a> <a href="https://github.com/sadrmanesh/commerce-agent-skills/stargazers"><img src="https://img.shields.io/github/stars/sadrmanesh/commerce-agent-skills?style=flat-square&color=F5B301" alt="Stars"/></a> | Skills and rules that help AI coding agents build e-commerce and marketplace products the right way. | [Docs](https://sadrmanesh.github.io/commerce-agent-skills/) |
 
+### Writing
+
+- [Four open-source tools for AI in e-commerce, and what building them taught me](https://dev.to/sadrmanesh/four-open-source-tools-for-ai-in-e-commerce-and-what-building-them-taught-me-5abl) on Dev.to
+
 ### Tech stack
 
 <sub>Linked items point to the open-source project that uses them.</sub>
