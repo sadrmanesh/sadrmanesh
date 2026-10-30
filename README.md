@@ -54,7 +54,10 @@ My focus is simple: AI should be judged by the problems it solves, not by the de
 - Research: [ORCID](https://orcid.org/0009-0005-3708-4142) · [Google Scholar](https://scholar.google.com/citations?user=0d5m-OoAAAAJ)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadrmanesh&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sadrmanesh&theme=dark&hide_border=true&background=00000000" />
+    <img src="https://streak-stats.demolab.com?user=sadrmanesh&hide_border=true&background=00000000" alt="GitHub contribution streak" />
+  </picture>
 </p>
 
 <p align="center"><sub>ساختن محصول با هوش مصنوعی، برای آدم‌های واقعی.</sub></p>
