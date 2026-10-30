@@ -43,17 +43,19 @@ Production-grade building blocks for AI-powered commerce, built in the open.
 
 ### Tech stack
 
-**AI & LLMs:** OpenAI · Anthropic · Gemini · Llama · Mistral · Hugging Face Transformers · Ollama · vLLM  
-**Agents & orchestration:** LangChain · LangGraph · LlamaIndex · CrewAI · AutoGen · OpenAI Agents SDK · MCP (Model Context Protocol)  
-**RAG & retrieval:** Embeddings · Pinecone · Weaviate · Qdrant · Chroma · pgvector · Elasticsearch  
-**ML & evaluation:** PyTorch · scikit-learn · Fine-tuning (LoRA) · LLM evals · Prompt & context engineering · Guardrails  
-**AI developer tools:** AI coding agents · Agent skills & rules · Prompt tooling · Observability (LangSmith, Langfuse)  
-**Languages:** Python · TypeScript · JavaScript · PHP · SQL  
-**Backend & APIs:** Node.js · FastAPI · Laravel · REST · GraphQL · WebSockets  
+<sub>Linked items point to the open-source project that uses them.</sub>
+
+**AI & LLMs:** OpenAI · Anthropic · Gemini · Llama · Mistral · [Hugging Face Transformers](https://github.com/sadrmanesh/persian-rag "Used in persian-rag") · Ollama · vLLM  
+**Agents & orchestration:** LangChain · LangGraph · LlamaIndex · CrewAI · AutoGen · OpenAI Agents SDK · [MCP (Model Context Protocol)](https://github.com/sadrmanesh/woocommerce-mcp "Used in woocommerce-mcp")  
+**RAG & retrieval:** [Embeddings](https://github.com/sadrmanesh/persian-rag "Used in persian-rag") · Pinecone · Weaviate · [Qdrant](https://github.com/sadrmanesh/persian-rag "Used in persian-rag") · Chroma · [pgvector](https://github.com/sadrmanesh/persian-rag "Used in persian-rag") · [Rerankers](https://github.com/sadrmanesh/persian-rag "Used in persian-rag") · [Elasticsearch](https://github.com/sadrmanesh/llm-search-eval "Used in llm-search-eval") · [Algolia](https://github.com/sadrmanesh/llm-search-eval "Used in llm-search-eval")  
+**ML & evaluation:** PyTorch · scikit-learn · Fine-tuning (LoRA) · [LLM evals](https://github.com/sadrmanesh/llm-search-eval "Used in llm-search-eval") · [Prompt & context engineering](https://github.com/sadrmanesh/commerce-agent-skills "Used in commerce-agent-skills") · Guardrails  
+**AI developer tools:** [AI coding agents](https://github.com/sadrmanesh/commerce-agent-skills "Used in commerce-agent-skills") · [Agent skills & rules](https://github.com/sadrmanesh/commerce-agent-skills "Used in commerce-agent-skills") · Prompt tooling · Observability (LangSmith, Langfuse)  
+**Languages:** [Python](https://github.com/sadrmanesh/persian-rag "Used in persian-rag") · [TypeScript](https://github.com/sadrmanesh/woocommerce-mcp "Used in woocommerce-mcp") · JavaScript · PHP · SQL  
+**Backend & APIs:** [Node.js](https://github.com/sadrmanesh/woocommerce-mcp "Used in woocommerce-mcp") · [FastAPI](https://github.com/sadrmanesh/persian-rag "Used in persian-rag") · Laravel · REST · GraphQL · WebSockets  
 **Frontend:** React · Next.js · Tailwind CSS  
-**Data:** PostgreSQL · MySQL · Redis · MongoDB  
-**E-commerce:** WooCommerce · WordPress · Payment integrations · Marketplace search & recommendations  
-**Cloud & delivery:** Docker · Kubernetes · GitHub Actions · CI/CD · AWS · Linux · Nginx
+**Data:** [PostgreSQL](https://github.com/sadrmanesh/persian-rag "Used in persian-rag") · MySQL · Redis · MongoDB  
+**E-commerce:** [WooCommerce](https://github.com/sadrmanesh/woocommerce-mcp "Used in woocommerce-mcp") · [WordPress](https://github.com/sadrmanesh/woocommerce-mcp "Used in woocommerce-mcp") · [Payment integrations](https://github.com/sadrmanesh/commerce-agent-skills "Used in commerce-agent-skills") · [Marketplace search & recommendations](https://github.com/sadrmanesh/llm-search-eval "Used in llm-search-eval")  
+**Cloud & delivery:** [Docker](https://github.com/sadrmanesh/woocommerce-mcp "Used in woocommerce-mcp") · Kubernetes · [GitHub Actions](https://github.com/sadrmanesh/llm-search-eval "Used in llm-search-eval") · CI/CD · AWS · Linux · Nginx
 
 ### Connect
 
