@@ -43,6 +43,11 @@ Production-grade building blocks for AI-powered commerce, built in the open.
 
 ### Writing
 
+- [Safe write tools for agents: preview, confirm, audit, and stale previews in a WooCommerce MCP server](https://dev.to/sadrmanesh/safe-write-tools-for-agents-preview-confirm-audit-and-stale-previews-in-a-woocommerce-mcp-server-2c66) on Dev.to
+- [Why RAG breaks on Persian text, and what I built to fix it](https://dev.to/sadrmanesh/why-rag-breaks-on-persian-text-and-what-i-built-to-fix-it-normalization-half-spaces-spelling-2jgm) on Dev.to
+- [Is your new search actually better? Label gaps, LLM judge panels, and paired statistics](https://dev.to/sadrmanesh/is-your-new-search-actually-better-label-gaps-llm-judge-panels-and-paired-statistics-for-offline-490p) on Dev.to
+- [Treat agent skills like code: evals, a strict validator, and an npx installer](https://dev.to/sadrmanesh/treat-agent-skills-like-code-evals-a-strict-validator-and-an-npx-installer-for-commerce-skills-13dk) on Dev.to
+- [Preview, confirm, audit: designing safe write tools for AI agents on a live store](https://www.linkedin.com/pulse/preview-confirm-audit-designing-safe-write-tools-ai-live-sadrmanesh-jwy5f/) on LinkedIn
 - [Four open-source tools for AI in e-commerce, and what building them taught me](https://dev.to/sadrmanesh/four-open-source-tools-for-ai-in-e-commerce-and-what-building-them-taught-me-5abl) on Dev.to
 
 ### Tech stack
