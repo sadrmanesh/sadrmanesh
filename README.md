@@ -48,6 +48,9 @@ Production-grade building blocks for AI-powered commerce, built in the open.
 - [Is your new search actually better? Label gaps, LLM judge panels, and paired statistics](https://dev.to/sadrmanesh/is-your-new-search-actually-better-label-gaps-llm-judge-panels-and-paired-statistics-for-offline-490p) on Dev.to
 - [Treat agent skills like code: evals, a strict validator, and an npx installer](https://dev.to/sadrmanesh/treat-agent-skills-like-code-evals-a-strict-validator-and-an-npx-installer-for-commerce-skills-13dk) on Dev.to
 - [Preview, confirm, audit: designing safe write tools for AI agents on a live store](https://www.linkedin.com/pulse/preview-confirm-audit-designing-safe-write-tools-ai-live-sadrmanesh-jwy5f/) on LinkedIn
+- [Is your new search actually better? Five questions I ask before shipping a ranking change](https://www.linkedin.com/pulse/your-new-search-actually-better-five-questions-i-ask-naser-sadrmanesh-s2sff/) on LinkedIn
+- [Why RAG quietly fails on Persian text, and the design decisions that fixed it](https://www.linkedin.com/pulse/why-rag-quietly-fails-persian-text-design-decisions-fixed-sadrmanesh-wd4vf/) on LinkedIn
+- [The knowledge your senior engineers carry, packaged for coding agents](https://www.linkedin.com/pulse/knowledge-your-senior-engineers-carry-packaged-coding-sadrmanesh-xtenf/) on LinkedIn
 - [Four open-source tools for AI in e-commerce, and what building them taught me](https://dev.to/sadrmanesh/four-open-source-tools-for-ai-in-e-commerce-and-what-building-them-taught-me-5abl) on Dev.to
 
 ### Tech stack
