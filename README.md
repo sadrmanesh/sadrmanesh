@@ -43,6 +43,7 @@ Production-grade building blocks for AI-powered commerce, built in the open.
 
 ### Writing
 
+- [persian-rag: A Persian-First Retrieval-Augmented Generation Toolkit — Normalization, Hybrid Retrieval, and Retrieval Evaluation](https://doi.org/10.5281/zenodo.23923535) on Zenodo, 2026
 - [Technical Report: WooCommerce Model Context Protocol Server - A Multi-Store, Previewed Safe-Write Architecture for Autonomous AI Agents in E-Commerce](https://doi.org/10.5281/zenodo.23897615) on Zenodo, 2026
 - [commerce-agent-skills: Architectural Specification, Domain Constraints, and Evaluation Framework for E-Commerce AI Coding Agents](https://doi.org/10.5281/zenodo.23883598) on Zenodo, 2026
 - [Safe write tools for agents: preview, confirm, audit, and stale previews in a WooCommerce MCP server](https://dev.to/sadrmanesh/safe-write-tools-for-agents-preview-confirm-audit-and-stale-previews-in-a-woocommerce-mcp-server-2c66) on Dev.to
