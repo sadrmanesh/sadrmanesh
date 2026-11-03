@@ -43,6 +43,8 @@ Production-grade building blocks for AI-powered commerce, built in the open.
 
 ### Writing
 
+- [Technical Report: WooCommerce Model Context Protocol Server - A Multi-Store, Previewed Safe-Write Architecture for Autonomous AI Agents in E-Commerce](https://doi.org/10.5281/zenodo.23897615) on Zenodo, 2026
+- [commerce-agent-skills: Architectural Specification, Domain Constraints, and Evaluation Framework for E-Commerce AI Coding Agents](https://doi.org/10.5281/zenodo.23883598) on Zenodo, 2026
 - [Safe write tools for agents: preview, confirm, audit, and stale previews in a WooCommerce MCP server](https://dev.to/sadrmanesh/safe-write-tools-for-agents-preview-confirm-audit-and-stale-previews-in-a-woocommerce-mcp-server-2c66) on Dev.to
 - [Why RAG breaks on Persian text, and what I built to fix it](https://dev.to/sadrmanesh/why-rag-breaks-on-persian-text-and-what-i-built-to-fix-it-normalization-half-spaces-spelling-2jgm) on Dev.to
 - [Is your new search actually better? Label gaps, LLM judge panels, and paired statistics](https://dev.to/sadrmanesh/is-your-new-search-actually-better-label-gaps-llm-judge-panels-and-paired-statistics-for-offline-490p) on Dev.to
