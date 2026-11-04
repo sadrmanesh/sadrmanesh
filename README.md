@@ -43,6 +43,7 @@ Production-grade building blocks for AI-powered commerce, built in the open.
 
 ### Writing
 
+- [persian-rag-bench: A Persian Retrieval Benchmark for Spelling-Variant Robustness](https://doi.org/10.6084/m9.figshare.34913889) on Figshare, 2026
 - [persian-rag: A Persian-First Retrieval-Augmented Generation Toolkit — Normalization, Hybrid Retrieval, and Retrieval Evaluation](https://doi.org/10.5281/zenodo.23923535) on Zenodo, 2026
 - [Technical Report: WooCommerce Model Context Protocol Server - A Multi-Store, Previewed Safe-Write Architecture for Autonomous AI Agents in E-Commerce](https://doi.org/10.5281/zenodo.23897615) on Zenodo, 2026
 - [commerce-agent-skills: Architectural Specification, Domain Constraints, and Evaluation Framework for E-Commerce AI Coding Agents](https://doi.org/10.5281/zenodo.23883598) on Zenodo, 2026
