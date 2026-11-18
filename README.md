@@ -53,6 +53,7 @@ Published Chrome extensions for translation, DNS, and classifieds search.
 
 ### Writing
 
+- [Statistical E-Commerce Search Evaluation with LLM Relevance Judge Panels and CI Quality Gates: A Technical Analysis of llm-search-eval v0.5.0]([https://doi.org/10.6084/m9.figshare.34913889](https://www.researchgate.net/publication/417864795_Statistical_E-Commerce_Search_Evaluation_with_LLM_Relevance_Judge_Panels_and_CI_Quality_Gates_A_Technical_Analysis_of_llm-search-eval_v050) on ResearchGate, 2026
 - [persian-rag-bench: A Persian Retrieval Benchmark for Spelling-Variant Robustness](https://doi.org/10.6084/m9.figshare.34913889) on Figshare, 2026
 - [persian-rag: A Persian-First Retrieval-Augmented Generation Toolkit — Normalization, Hybrid Retrieval, and Retrieval Evaluation](https://doi.org/10.5281/zenodo.23923535) on Zenodo, 2026
 - [Technical Report: WooCommerce Model Context Protocol Server - A Multi-Store, Previewed Safe-Write Architecture for Autonomous AI Agents in E-Commerce](https://doi.org/10.5281/zenodo.23897615) on Zenodo, 2026
