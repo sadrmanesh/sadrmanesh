@@ -41,6 +41,18 @@ Production-grade building blocks for AI-powered commerce, built in the open.
 | **[persian-rag](https://github.com/sadrmanesh/persian-rag)**<br/><a href="https://github.com/sadrmanesh/persian-rag/releases"><img src="https://img.shields.io/github/v/release/sadrmanesh/persian-rag?style=flat-square&label=release&color=0A66C2" alt="Latest release"/></a> | Persian-first RAG toolkit for Python: Farsi normalization, PDF and Word loading, hybrid retrieval, reranking and evaluation. | [Docs](https://sadrmanesh.github.io/persian-rag/) |
 | **[commerce-agent-skills](https://github.com/sadrmanesh/commerce-agent-skills)**<br/><a href="https://github.com/sadrmanesh/commerce-agent-skills/releases"><img src="https://img.shields.io/github/v/release/sadrmanesh/commerce-agent-skills?style=flat-square&label=release&color=0A66C2" alt="Latest release"/></a> | Skills and rules that help AI coding agents build e-commerce and marketplace products the right way. | [Docs](https://sadrmanesh.github.io/commerce-agent-skills/) |
 
+### Apps
+
+Android apps published on Cafe Bazaar, including HameJoo and the Alwer marketplace family.
+
+| App | What it does | |
+| :--- | :--- | :---: |
+| **[HameJoo (همه‌جو)](https://cafebazaar.ir/app/com.hamejoo.app)** | Iran's classifieds search engine — homes, cars and more in one app. | [Cafe Bazaar](https://cafebazaar.ir/app/com.hamejoo.app) · [Website](https://hamejoo.ir) · [Chrome extension](https://chromewebstore.google.com/detail/hhchlcjldhlccicaaeiifmfdbacedhoi) |
+| **[AzadChi (آزادچی)](https://cafebazaar.ir/app/com.azadchi.app)** | Free marketplace for buying and selling free-zone plated cars in Kish, Qeshm, Aras, Maku, Arvand, Anzali, Chabahar and other free zones. | [Cafe Bazaar](https://cafebazaar.ir/app/com.azadchi.app) |
+| **[Alwer (آلور)](https://cafebazaar.ir/app/com.alwer.app)** | Iran’s needs marketplace: post a buy request, get price quotes, or list what you sell. | [Cafe Bazaar](https://cafebazaar.ir/app/com.alwer.app) · [Website](https://alwer.ir) |
+| **[AlwerYar (آلوریار)](https://cafebazaar.ir/app/com.alweryar.app)** | Alwer’s review partner app: assess listings and suggest a decision; final publish stays with Alwer. | [Cafe Bazaar](https://cafebazaar.ir/app/com.alweryar.app) · [Website](https://alweryar.ir) |
+| **[Alwerchi (آلورچی)](https://cafebazaar.ir/app/com.alwerchi.app)** | Merchant app to manage products and stores on the Alwer platform. | [Cafe Bazaar](https://cafebazaar.ir/app/com.alwerchi.app) |
+
 ### Browser extensions
 
 Published Chrome extensions for translation, DNS, and classifieds search.
@@ -49,7 +61,8 @@ Published Chrome extensions for translation, DNS, and classifieds search.
 | :--- | :--- | :---: |
 | **[ziman-ai](https://github.com/sadrmanesh/ziman-ai)**<br/><a href="https://github.com/sadrmanesh/ziman-ai/releases"><img src="https://img.shields.io/github/v/release/sadrmanesh/ziman-ai?style=flat-square&label=release&color=0A66C2" alt="Latest release"/></a> | Kurdish (Sorani and Kurmanji) and multilingual translator for Chrome, with an offline phrasebook and optional AI translation. | [Docs](https://sadrmanesh.github.io/ziman-ai/) · [Chrome Web Store](https://chromewebstore.google.com/detail/ziman-ai-kurdish-translat/cjmmnobnimheoeeojobgfkgbdbohcjkn) |
 | **[chrome-dns-manager](https://github.com/sadrmanesh/chrome-dns-manager)**<br/><a href="https://github.com/sadrmanesh/chrome-dns-manager/releases"><img src="https://img.shields.io/github/v/release/sadrmanesh/chrome-dns-manager?style=flat-square&label=release&color=0A66C2" alt="Latest release"/></a> | Organizes DNS profiles and DNS-over-HTTPS templates for manual Chrome Secure DNS setup. | [Docs](https://sadrmanesh.github.io/chrome-dns-manager/) · [Chrome Web Store](https://chromewebstore.google.com/detail/dns-configuration-manager/opoejijmagmdeeobilcpjnllpmoklnlk) |
-| **[hamejoo-chrome](https://github.com/HameJoo/hamejoo-chrome)** | Official Chrome extension for HameJoo (همه‌جو): search Iranian classified ads and businesses from the toolbar, the hj address-bar keyword, or the right-click menu. | [Docs](https://hamejoo.github.io/hamejoo-chrome/) · [Chrome Web Store](https://chromewebstore.google.com/detail/hhchlcjldhlccicaaeiifmfdbacedhoi) |
+| **[hamejoo-chrome](https://github.com/HameJoo/hamejoo-chrome)** | Official Chrome extension for HameJoo (همه‌جو): search Iranian classified ads and businesses from the toolbar, the hj address-bar keyword, or the right-click menu. | [Docs](https://hamejoo.github.io/hamejoo-chrome/) · [Chrome Web Store](https://chromewebstore.google.com/detail/hhchlcjldhlccicaaeiifmfdbacedhoi) · [Android app](https://cafebazaar.ir/app/com.hamejoo.app) |
+
 ### Writing
 
 - [Statistical E-Commerce Search Evaluation with LLM Relevance Judge Panels and CI Quality Gates: A Technical Analysis of llm-search-eval v0.5.0](https://www.researchgate.net/publication/417864795_Statistical_E-Commerce_Search_Evaluation_with_LLM_Relevance_Judge_Panels_and_CI_Quality_Gates_A_Technical_Analysis_of_llm-search-eval_v050) on ResearchGate, 2026
